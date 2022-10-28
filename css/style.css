@@ -1,0 +1,150 @@
+.wrapper
+{
+width:80%;
+margin:auto;
+}
+.bootstrap
+{
+background-color:black;
+height:55px;
+}
+.bootstrap .bootstrap-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.bootstrap .bootstrap-fc .start
+{
+	width:150px;
+	height:55px;
+	background-color:white;
+}
+.bootstrap .bootstrap-fc .about
+{
+	width:200px;
+	height:55px;
+	background-color:white;
+}
+.welcome
+{
+background-color: blue;
+height:620px;
+}
+.welcome .wrapper
+{
+	width:80%;
+margin:auto;
+}
+.welcome .welcome-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.welcome .welcome-fc .box-a
+{
+	width:100%;
+	height:350px;
+	background-color:white;
+	margin-top:25px;
+}
+.welcome .welcome-fc .box-b
+{
+	width:200px;
+	height:102px;
+	background-color:red;
+	margin-top:50px;
+}
+.about{
+background-color: white;
+height:450px;
+}
+.about .wrapper
+{
+width:80%;
+margin:auto;
+}
+.about .about-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.about .about-fc .box-b
+{
+	width:660px;
+	height:300px;
+	background-color:black;
+	margin-top:70px;
+}
+.about .about-fc .box-c
+{
+	width:300px;
+	height:300px;
+	background-color:yellow;
+	margin-top:70px;
+}
+.services
+{
+background-color: lightgrey;
+height:440px;
+}
+.services .services-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.services .services-fc .box-d
+{
+	width:660px;
+	height:250px;
+	background-color:black;
+	margin-top:70px;
+}
+.services .services-fc .box-e
+{
+	width:300px;
+	height:250px;
+	background-color:red;
+	margin-top:70px;
+}
+.contact
+{
+background-color: white;
+height:440px;
+}
+.contact .contact-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.contact .contact-fc .box-f
+{
+	width:660px;
+	height:250px;
+	background-color:black;
+	margin-top:70px;
+}
+.contact .contact-fc .box-g
+{
+	width:300px;
+	height:250px;
+	background-color:black;
+	margin-top:70px;
+}
+.website
+{
+background-color: black;
+height:120px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .box-e
+{
+	width:300px;
+	height:90px;
+	background-color:white;
+	margin-top:15px;
+}
